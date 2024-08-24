@@ -1,0 +1,5 @@
+input()  
+english_subscribers=set(map(int, input().strip().split()))
+input() 
+french_subscribers=set(map(int, input().strip().split()))
+print(len(english_subscribers - french_subscribers))
