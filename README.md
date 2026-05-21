@@ -13,10 +13,7 @@ problem solving and additional leetcode exercises.
 The series is organized into four progressive stages:
 
 **1. Foundations & Mindset**
-- Kickoff and program orientation
-- Focus, time management, and planning
 - Best practices for learning and coding
-- The 7 Steps of Highly Effective Problem Solving
 
 **2. Python & Complexity**
 - Python basics: conditionals and loops
