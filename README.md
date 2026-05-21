@@ -12,7 +12,7 @@ problem solving and additional leetcode exercises.
 
 The series is organized into four progressive stages:
 
-**1. Foundations & Mindset**
+**1. Introduction**
 - Best practices for learning and coding
 
 **2. Python & Complexity**
